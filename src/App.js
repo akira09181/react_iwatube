@@ -14,6 +14,7 @@ const theme = createMuiTheme({
     },
   },
   typography: {
+    
     fontFamily: '"Comic Neue",cursive',
   },
 });
